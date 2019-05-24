@@ -5,7 +5,7 @@
 }
 
 body {
-    background:lineargradient(yellow,green,red) ;
+    background-color:lineargradient(yellow,green,red) ;
 }
 
 h1 {
