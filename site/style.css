@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: Helvetica;
+    background:lineargradient(yellow,green,red) ;
 }
 
 body {
